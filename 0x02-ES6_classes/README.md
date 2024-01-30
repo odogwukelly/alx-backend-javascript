@@ -1,7 +1,7 @@
 # 0x02. ES6 classes
 `OOP` `JavaScript` `ES6`
 
-![classes meme]()
+![classes meme](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/img/classese_meme.jpeg)
 
 ## Resources
 #### Read or watch:
@@ -150,8 +150,9 @@ bob@dylan:~$ npm run dev 0-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
- - File: [0-classroom.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master) 
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [0-classroom.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/0-classroom.js)
 
 #
 
@@ -175,8 +176,9 @@ bob@dylan:~$ npm run dev 1-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-+ File: [1-make_classrooms.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
++ File: [1-make_classrooms.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/1-make_classrooms.js)
 
 #
 
@@ -227,8 +229,9 @@ TypeError: Length must be a number
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [2-hbtn_course.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [2-hbtn_course.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/2-hbtn_course.js)
 
 #
 
@@ -253,8 +256,9 @@ Dollars ($)
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [3-currency.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [3-currency.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/3-currency.js)
 
 #
 
@@ -287,8 +291,9 @@ Pricing {
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [4-pricing.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [4-pricing.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/4-pricing.js)
 
 #
 
@@ -324,8 +329,9 @@ Error: Class extending Building must override evacuationWarningMessage
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [5-building.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [5-building.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/5-building.js)
 
 #
 
@@ -355,8 +361,9 @@ Evacuate slowly the 60 floors
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [6-sky_high.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [6-sky_high.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/6-sky_high.js)
 
 #
 
@@ -382,8 +389,9 @@ Airport [SFO] { _name: 'San Francisco Airport', _code: 'SFO' }
 bob@dylan:~$
 ```
 ### Repo:
-
-- File: [7-airport.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [7-airport.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/7-airport.js)
 
 #  
 
@@ -410,8 +418,9 @@ Mezzanine
 bob@dylan:~$
 ```
 ### Repo:
-
-- File: [8-hbtn_class.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [8-hbtn_class.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/8-hbtn_class.js)
 
 #
 
@@ -517,8 +526,9 @@ bob@dylan:~$ npm run dev 9-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [9-hoisting.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [9-hoisting.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/9-hoisting.js)
 
 #
 
@@ -558,8 +568,9 @@ false
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [10-car.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [10-car.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/10-car.js)
 
 #
 
@@ -595,8 +606,9 @@ Car { _brand: undefined, _motor: undefined, _color: undefined }
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [100-evcar.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x02-ES6_classes](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x02-ES6_classes)
+- File: [100-evcar.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x02-ES6_classes/100-evcar.js)
 
 
 
