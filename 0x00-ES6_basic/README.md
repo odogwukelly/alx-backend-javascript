@@ -301,7 +301,7 @@ bob@dylan:~$
 
 
 
-### 4. Rest parameter syntax for functions
+## 4. Rest parameter syntax for functions
 Modify the following function to return the number of arguments passed to it using the rest parameter syntax
 ```
 export default function returnHowManyArguments() {
@@ -759,7 +759,6 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [101-iterateThroughObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/101-iterateThroughObject.js)
 
-#
 
 
 
