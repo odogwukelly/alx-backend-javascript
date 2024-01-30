@@ -1,7 +1,7 @@
 # 0x03. ES6 data manipulation
 `JavaScript` `ES6`
 
-![es6_data_manipulation_meme]()
+![es6_data_manipulation_meme](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/img/es_data_manipulation.jpg)
 
 ## Resources
 #### Read or watch:
@@ -159,9 +159,9 @@ bob@dylan:~$ npm run dev 0-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x03-ES6_data_manipulation]()
-- File: [0-get_list_students.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [0-get_list_students.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/0-get_list_students.js)
 
 #
 
@@ -189,8 +189,9 @@ bob@dylan:~$ npm run dev 1-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [1-get_list_student_ids.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [1-get_list_student_ids.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/1-get_list_student_ids.js)
    
 #
 
@@ -219,8 +220,9 @@ bob@dylan:~$ npm run dev 2-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [2-get_students_by_loc.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [2-get_students_by_loc.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/2-get_students_by_loc.js)
 
 #
 
@@ -247,8 +249,9 @@ bob@dylan:~$ npm run dev 3-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [3-get_ids_sum.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [3-get_ids_sum.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/3-get_ids_sum.js)
 
 #
 
@@ -300,8 +303,9 @@ bob@dylan:~$ npm run dev 4-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [4-update_grade_by_city.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [4-update_grade_by_city.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/4-update_grade_by_city.js)
 
 #
 
@@ -331,8 +335,9 @@ DataView {
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [5-typed_arrays.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [5-typed_arrays.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/5-typed_arrays.js)
 
 #
 
@@ -353,8 +358,9 @@ Set { 12, 32, 15, 78, 98 }
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [6-set.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [6-set.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/6-set.js)
 
 #
 
@@ -379,8 +385,9 @@ false
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [7-has_array_values.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [7-has_array_values.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/7-has_array_values.js)
 
 #
 
@@ -405,8 +412,9 @@ jovi-aparte-appetit
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [8-clean_set.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [8-clean_set.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/8-clean_set.js)
 
 #
 
@@ -439,8 +447,9 @@ Map {
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [9-groceries_list.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [9-groceries_list.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/9-groceries_list.js)
 
 #
 
@@ -481,8 +490,9 @@ Map {
 bob@dylan:~$ 
 ```
 Repo:
-
-- File: [10-update_uniq_items.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [10-update_uniq_items.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/10-update_uniq_items.js)
 
 #
 
@@ -528,8 +538,9 @@ bob@dylan:~$ npm run dev 100-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- File: [100-weak.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x03-ES6_data_manipulation](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- File: [100-weak.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/100-weak.js)
 
 
 
