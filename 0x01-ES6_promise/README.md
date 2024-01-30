@@ -1,7 +1,7 @@
 # 0x01. ES6 Promises
 `JavaScript` `ES6`
 
-![meme]()
+![meme](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/img/promise_meme.jpeg)
 
 ## Resources
 #### Read or watch:
@@ -182,9 +182,9 @@ true
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [0-promise.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [0-promise.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/0-promise.js)
 
 #
 
@@ -195,9 +195,9 @@ getFullResponseFromAPI(success)
 ```
 When the argument is:
 + `true`
- - resolve the promise by passing an object with 2 attributes:
-  + `status`: `200`
-  + `body`: `'Success'`
+    - resolve the promise by passing an object with 2 attributes:
+    + `status`: `200`
+    + `body`: `'Success'`
 + `false`
  - reject the promise with an error object with the message `The fake API is not working currently`
 Try testing it out for yourself
@@ -218,9 +218,9 @@ Promise {
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [1-promise.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [1-promise.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/1-promise.js)
 
 #
 
@@ -248,9 +248,9 @@ Got a response from the API
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [2-then.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [2-then.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/2-then.js)
 
 #
 
@@ -274,9 +274,9 @@ photo-profile-1 Guillaume Salva
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [3-all.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [3-all.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/3-all.js)
 
 #
 
@@ -305,10 +305,9 @@ Promise { { firstName: 'Bob', lastName: 'Dylan' } }
 bob@dylan:~$ 
 ```
 ### Repo:
-
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [4-user-promise.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [4-user-promise.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/4-user-promise.js)
 
 #
 
@@ -335,9 +334,9 @@ Promise {
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [5-photo-reject.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [5-photo-reject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/5-photo-reject.js)
 
 #
 
@@ -366,9 +365,9 @@ Promise { <pending> }
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [6-final-user.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [6-final-user.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/6-final-user.js)
 
 #
 
@@ -414,9 +413,9 @@ Downloading from FR is faster
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [7-load_balancer.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [7-load_balancer.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/7-load_balancer.js)
 
 #
 
@@ -447,9 +446,9 @@ bob@dylan:~$ npm run dev 8-main.js
 bob@dylan:~$
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [8-try.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [8-try.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/8-try.js)
 
 #
 
@@ -482,9 +481,9 @@ bob@dylan:~$ npm run dev 9-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [9-try.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [9-try.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/9-try.js)
 
 #
 
@@ -525,9 +524,9 @@ bob@dylan:~$ npm run dev 100-main.js
 bob@dylan:~$ 
 ```
 ### Repo:
-- GitHub repository: [alx-backend-javascript]()
-- Directory: [0x01-ES6_promise]()
-- File: [100-await.js]()
+- GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
+- Directory: [0x01-ES6_promise](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x01-ES6_promise)
+- File: [100-await.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x01-ES6_promise/100-await.js)
 
 
 
