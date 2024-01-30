@@ -185,6 +185,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [0-constants.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/0-constants.js)
 
+#
 
 
 
@@ -221,6 +222,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [1-block-scoped.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/1-block-scoped.js)
 
+#
 
 
 
@@ -255,6 +257,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [2-arrow.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/2-arrow.js)
 
+#
 
 
 
@@ -294,6 +297,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [3-default-parameter.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/3-default-parameter.js)
 
+#
 
 
 
@@ -328,6 +332,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [4-rest-parameter.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/4-rest-parameter.js)
 
+#
 
 
 
@@ -358,6 +363,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [5-spread-operator.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/5-spread-operator.js)
 
+#
 
 
 
@@ -394,6 +400,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [6-string-interpolation.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/6-string-interpolation.js)
 
+#
 
 
 
@@ -429,6 +436,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [7-getBudgetObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/7-getBudgetObject.js)
 
+#
 
 
 
@@ -467,6 +475,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [8-getBudgetCurrentYear.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/8-getBudgetCurrentYear.js)
 
+#
 
 
 
@@ -511,6 +520,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [9-getFullBudget.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/9-getFullBudget.js)
 
+#
 
 
 
@@ -543,6 +553,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [10-loops.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/10-loops.js)
 
+#
 
 
 
@@ -581,6 +592,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [11-createEmployeesObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/11-createEmployeesObject.js)
 
+#
 
 
 
@@ -632,6 +644,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [12-createReportObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/12-createReportObject.js)
 
+#
 
 
 
@@ -677,6 +690,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [100-createIteratorObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/100-createIteratorObject.js)
 
+#
 
 
 
@@ -745,7 +759,7 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [101-iterateThroughObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/101-iterateThroughObject.js)
 
-
+#
 
 
 
