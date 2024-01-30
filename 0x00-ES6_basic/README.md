@@ -147,7 +147,7 @@ Don’t forget to run `npm install` from the terminal of your project folder to 
 
 
 ## Tasks
-#### 0. Const or let?
+0. Const or let?
 Modify
 - function `taskFirst` to instantiate variables using `const`
 - function `taskNext` to instantiate variables using `let`
@@ -185,7 +185,10 @@ bob@dylan:~$
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [0-constants.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/0-constants.js)
 
-#### 1. Block Scope
+
+
+
+1. Block Scope
 Given what you’ve read about `var` and hoisting, modify the variables inside the function `taskBlock` so that the variables aren’t overwritten inside the conditional block.
 ```
 export default function taskBlock(trueOrFalse) {
@@ -219,7 +222,9 @@ bob@dylan:~$
 - File: [1-block-scoped.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/1-block-scoped.js)
 
 
-#### 2. Arrow functions
+
+
+2. Arrow functions
 Rewrite the following standard function to use ES6’s arrow syntax of the function `add` (it will be an anonymous function after)
 ```
 export default function getNeighborhoodsList() {
@@ -245,14 +250,15 @@ bob@dylan:~$ npm run dev 2-main.js
 [ 'SOMA', 'Union Square', 'Noe Valley' ]
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [2-arrow.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/2-arrow.js)
 
 
-#### 3. Parameter defaults
+
+
+3. Parameter defaults
 Condense the internals of the following function to 1 line - without changing the name of each function/variable.
 
 Hint: The key here to define default parameter values for the function parameters.
@@ -283,14 +289,15 @@ bob@dylan:~$ npm run dev 3-main.js
 41
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [3-default-parameter.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/3-default-parameter.js)
 
 
-#### 4. Rest parameter syntax for functions
+
+
+4. Rest parameter syntax for functions
 Modify the following function to return the number of arguments passed to it using the rest parameter syntax
 ```
 export default function returnHowManyArguments() {
@@ -316,14 +323,15 @@ bob@dylan:~$ npm run dev 4-main.js
 4
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [4-rest-parameter.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/4-rest-parameter.js)
 
 
-#### 5. The wonders of spread syntax
+
+
+5. The wonders of spread syntax
 Using spread syntax, concatenate 2 arrays and each character of a string by modifying the function below. Your function body should be one line long.
 ```
 export default function concatArrays(array1, array2, string) {
@@ -345,14 +353,15 @@ bob@dylan:~$ npm run dev 5-main.js
 ]
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [5-spread-operator.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/5-spread-operator.js)
 
 
-#### 6. Take advantage of template literals
+
+
+6. Take advantage of template literals
 Rewrite the return statement to use a template literal so you can the substitute the variables you’ve defined.
 ```
 export default function getSanFranciscoDescription() {
@@ -380,14 +389,15 @@ bob@dylan:~$ npm run dev 6-main.js
 As of 2017, it was the seventh-highest income county in the United States, with a per capita personal income of $119,868. As of 2015, San Francisco proper had a GDP of $154.2 billion, and a GDP per capita of $178,479.
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [6-string-interpolation.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/6-string-interpolation.js)
 
 
-##### 7. Object property value shorthand syntax
+
+
+7. Object property value shorthand syntax
 Notice how the keys and the variable names are the same?
 
 Modify the following function’s budget object to simply use the keyname instead.
@@ -414,13 +424,15 @@ bob@dylan:~$ npm run dev 7-main.js
 { income: 400, gdp: 700, capita: 900 }
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [7-getBudgetObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/7-getBudgetObject.js)
 
-#### 8. No need to create empty objects before adding in properties
+
+
+
+8. No need to create empty objects before adding in properties
 Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object
 ```
 function getCurrentYear() {
@@ -450,14 +462,15 @@ bob@dylan:~$ npm run dev 8-main.js
 { 'income-2021': 2100, 'gdp-2021': 5200, 'capita-2021': 1090 }
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [8-getBudgetCurrentYear.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/8-getBudgetCurrentYear.js)
 
 
-#### 9. ES6 method properties
+
+
+9. ES6 method properties
 Rewrite `getFullBudgetObject` to use ES6 method properties in the `fullBudget` object
 ```
 import getBudgetObject from './7-getBudgetObject.js';
@@ -493,14 +506,15 @@ $20
 20 euros
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [9-getFullBudget.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/9-getFullBudget.js)
 
 
-#### 10. For...of Loops
+
+
+10. For...of Loops
 Rewrite the function `appendToEachArrayValue` to use ES6’s `for...of` operator. And don’t forget that `var` is not ES6-friendly.
 ```
 export default function appendToEachArrayValue(array, appendString) {
@@ -524,13 +538,15 @@ bob@dylan:~$ npm run dev 10-main.js
 [ 'correctly-appended', 'correctly-fixed', 'correctly-displayed' ]
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [10-loops.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/10-loops.js)
 
-#### 11. Iterator
+
+
+
+11. Iterator
 Write a function named `createEmployeesObject` that will receive two arguments:
 
 - `departmentName` (String)
@@ -560,14 +576,15 @@ bob@dylan:~$ npm run dev 11-main.js
 { Software: [ 'Bob', 'Sylvie' ] }
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [11-createEmployeesObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/11-createEmployeesObject.js)
 
 
-#### 12. Let's create a report object
+
+
+12. Let's create a report object
 Write a function named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
 ```
 export default function createReportObject(employeesList) {
@@ -616,7 +633,9 @@ bob@dylan:~$
 - File: [12-createReportObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/12-createReportObject.js)
 
 
-#### 13. Iterating through report objects
+
+
+13. Iterating through report objects
 Write a function named `createIteratorObject`, that will take into argument a report Object created with the previous function `createReportObject`.
 
 This function will return an iterator to go through every employee in every department.
@@ -653,13 +672,15 @@ Jane
 Sylvie
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
 - File: [100-createIteratorObject.js](https://github.com/odogwukelly/alx-backend-javascript/blob/master/0x00-ES6_basic/100-createIteratorObject.js)
 
-#### 14. Iterate through object
+
+
+
+14. Iterate through object
 Finally, write a function named `iterateThroughObject`. The function’s parameter `reportWithIterator` is the return value from `createIteratorObject`.
 ```
  export default function iterateThroughObject(reportWithIterator) {
@@ -719,7 +740,6 @@ bob@dylan:~$ npm run dev 101-main.js
 Bob | Jane | Sylvie
 bob@dylan:~$
 ```
-
 #### Repo:
 - GitHub repository: [alx-backend-javascript](https://github.com/odogwukelly/alx-backend-javascript/tree/master)
 - Directory: [0x00-ES6_basic](https://github.com/odogwukelly/alx-backend-javascript/tree/master/0x00-ES6_basic)
