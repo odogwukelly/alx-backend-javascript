@@ -1,3 +1,3 @@
-export default function returnHowManyArguments(...argsNum) {
-	return argsNum.length;
+export default function returnHowManyArguments(...rArgs) {
+  return rArgs.length;
 }
